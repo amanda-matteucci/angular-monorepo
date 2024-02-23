@@ -20,7 +20,7 @@
           "apps/angular-store/src/favicon.ico",
           "apps/angular-store/src/assets"
         ],
-        "styles": ["apps/angular-store/src/styles.scss"],
+        "styles": ["apps/angular-store/src/styles.css"],
         "scripts": []
       },
       "configurations": {
